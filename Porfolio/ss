@@ -1,0 +1,28 @@
+  <section class="portafolio">
+            <div class="contenedor">
+                <h2 class="titulo">Portafolio</h2>
+                <div class="galeria-port">
+                    <div class="imagen-port">
+                        <img src="img/4.png" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/cursor.jpg" alt="">
+                            <p>Nuestro Trabajo</p>
+                        </div>
+                        <div class="imagen-port">
+                            <img src="img/4.png" alt="">
+                            <div class="hover-galeria">
+                                <img src="img/cursor.jpg" alt="">
+                                <p>Nuestro Trabajo</p>
+                            </div>
+                            <div class="imagen-port">
+                                <img src="img/4.png" alt="">
+                                <div class="hover-galeria">
+                                    <img src="img/cursor.jpg" alt="">
+                                    <p>Nuestro Trabajo</p>
+                                </div>
+                                <div class="imagen-port">
+                                    <img src="img/4.png" alt="">
+                                    <div class="hover-galeria">
+                                        <img src="img/cursor.jpg" alt="">
+                                        <p>Nuestro Trabajo</p>
+                                    </div>
